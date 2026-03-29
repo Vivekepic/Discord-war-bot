@@ -142,4 +142,4 @@ async def map(ctx):
     generate_map()
     await ctx.send(file=discord.File("map.png"))
 
-bot.run(os.getenv("MTQ4NzEwMTkwMTc0NDExNTg1Mg.GCHg_n.GT_GVe-U2jtl00TeMByuaNNDO6q3Z9ekNTKuWs"))
+bot.run(os.getenv("TOKEN"))
