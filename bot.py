@@ -2,7 +2,6 @@ import nextcord as discord
 from nextcord.ext import commands
 import os
 import random
-import geopandas as gpd
 import matplotlib.pyplot as plt
 
 intents = discord.Intents.default()
